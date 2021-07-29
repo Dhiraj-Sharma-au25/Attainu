@@ -24,5 +24,5 @@ while cnt == "y" :
     res = calculator_project()
     print(res)
     cnt = input("for next calculation!!! press'y':")
-    print(cnt)
+    
 
