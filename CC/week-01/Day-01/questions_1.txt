@@ -1,0 +1,12 @@
+Q-1 ) Write brief description of all the below commands.
+ans.)
+
+1.(Git pull) -----The git pull command is used to bring code changes from cloud repository to local repository.
+
+2.(Git push) -----The git push command is used to send code/content from local repository to cloud repository.
+
+3.(Git merge) -----The git merge command is used to integrate git branch into single branch.This command merge the branch into master.
+
+4.(Git log) -----The git log command is used to see all the commits.
+
+5.(Git status) -----The git status command is used to show that which file is staged and which file is unstaged.
