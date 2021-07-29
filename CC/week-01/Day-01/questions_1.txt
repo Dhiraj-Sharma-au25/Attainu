@@ -10,3 +10,13 @@ ans.)
 4.(Git log) -----The git log command is used to see all the commits.
 
 5.(Git status) -----The git status command is used to show that which file is staged and which file is unstaged.
+
+6.(Git commit) -----The git commit command is used to give a message that what was the changes made there.
+
+7.(Git init) -----The git init command is used to initialise a git repository.
+
+8.(Git Clone) -----It will for first time clone the repository from cloud to your local.
+
+9.(Git branch) -----The git branch is used to show you the current branch you are on.
+
+10.(Git checkout) -----The git checkout command is used to navigate the branchs.
